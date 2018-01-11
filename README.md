@@ -25,6 +25,11 @@ The fixation on language prior was first studied by passing a tensor of all 1s. 
 ## Studying the fixation on language prior by removing the image and attention pipeline
 The fixation on language prior was then studied by simplifying the network and reducing it to NLP question answering task. This was done by editing model.py. The execution time was reduced 3 times here.
 
+## Visualizations
+![v1](https://github.com/animesh20/askaway-vqa_with_modifications/blob/master/performance_plots/v1.png)
+![v2](https://github.com/animesh20/askaway-vqa_with_modifications/blob/master/performance_plots/v2.png)
+![v3](https://github.com/animesh20/askaway-vqa_with_modifications/blob/master/performance_plots/v3.png)
+
 [0]: https://arxiv.org/abs/1704.03162
 [1]: https://github.com/pytorch/pytorch
 [2]: https://github.com/Cyanogenoid/pytorch-vqa
