@@ -27,10 +27,9 @@ The fixation on language prior was then studied by simplifying the network and r
 
 ## Visualizations
 ![v1](https://github.com/animesh20/askaway-vqa_with_modifications/blob/master/performance_plots/v1.png)
+![v2](https://github.com/animesh20/askaway-vqa_with_modifications/blob/master/performance_plots/v2.png)
 
 Obtained attention from AskAway for question ’Does this flask have enough wine to fill the glass?’ a) Input image b) First attention glimpse c)Second attention (finer) glimpse
-
-![v2](https://github.com/animesh20/askaway-vqa_with_modifications/blob/master/performance_plots/v2.png)
 ![v3](https://github.com/animesh20/askaway-vqa_with_modifications/blob/master/performance_plots/v3.png)
 
 [0]: https://arxiv.org/abs/1704.03162
