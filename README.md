@@ -23,3 +23,4 @@ python view-log.py <path to .pth log>
 ## Using Densenet and GRU in the network
 The densenet-161 architecture was being used here and the changes were made in preprocess-images.py file. The result for this change can be viewed as:
 ![Graph of convergence of implementation versus paper results](https://github.com/animesh20/askaway-vqa_with_modifications/blob/master/performance_plots/Densenet1.0.png)
+The GRU network was implemented in model.py and can be changed back to LSTM by editing the same.
