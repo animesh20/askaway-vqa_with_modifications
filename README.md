@@ -19,3 +19,7 @@ python view-log.py <path to .pth log>
 [2]: https://github.com/Cyanogenoid/pytorch-vqa
 [3]: https://github.com/animesh20/askaway-vqa_with_modifications/blob/master/project_report.pdf
 [4]: http://www.visualqa.org/vqa_v1_download.html
+
+## Using Densenet and GRU in the network
+The densenet-161 architecture was being used here and the changes were made in preprocess-images.py file. The result for this change can be viewed as:
+![Graph of convergence of implementation versus paper results](https://github.com/animesh20/askaway-vqa_with_modifications/blob/master/performance_plots/Densenet1.0.png)
